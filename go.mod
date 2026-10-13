@@ -12,7 +12,7 @@ require (
 require (
 	gioui.org/shader v1.0.9 // indirect
 	github.com/go-text/typesetting v0.3.5 // indirect
-	github.com/godbus/dbus/v5 v5.2.2 // indirect
-	golang.org/x/net v0.48.0 // indirect
+	github.com/godbus/dbus/v5 v5.2.4 // indirect
+	golang.org/x/net v0.61.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
 )
